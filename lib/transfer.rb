@@ -22,4 +22,9 @@ class Transfer
       self.reject
     end
   end
+
+  def reject
+    self.status = "reject"
+    
+  end
 end
