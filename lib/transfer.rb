@@ -28,6 +28,6 @@ class Transfer
     return "Transaction rejected. Please check your account balance."
   end
 
-  def reverse_transer
+  def reverse_transfer
   end
 end
